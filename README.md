@@ -42,3 +42,10 @@ The app uses the `google_maps_flutter` package to display the searched city's lo
   <img src="assets/screenshots/Italy City Weather.png" alt="App Preview" style="width: 30%; margin: 10px;" />
   <img src="assets/screenshots/Riyadh City Weather.png" alt="App Preview" style="width: 30%; margin: 10px;" />
 </div>
+
+## 📦 Download APK
+
+You can download the latest version of the app from the link below:
+
+[⬇️ Download APK](release/app-release.apk)
+
