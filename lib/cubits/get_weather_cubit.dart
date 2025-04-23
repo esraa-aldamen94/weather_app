@@ -30,15 +30,10 @@ class GetWeatherCubit extends Cubit<GetWeatherState> {
         headers: {"Accept": "application/json", "Connection": "keep-alive"},
       );
       if (forecastWeatherResponse.statusCode == 200) {
-
         final ForecastWeatherModel forecastWeatherModel =
             ForecastWeatherModel.fromJson(
               jsonDecode(forecastWeatherResponse.body),
             );
-
-
-        print('عدد أيام النموذج: ${forecastWeatherModel.forecast?.forecastday?.length ?? 0}');
-
         emit(
           LoadedGetWeatherState(
             currentWeatherModel: currentWeatherModel,
