@@ -33,12 +33,7 @@ The app uses the `google_maps_flutter` package to display the searched city's lo
 
 ## 📸 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="assets/screenshots/Get Started.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-  <img src="assets/screenshots/Search City.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-  <img src="assets/screenshots/Irbid City Weather.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-  <img src="assets/screenshots/Irbid City Forecast.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-  <img src="assets/screenshots/Irbid City Location.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-  <img src="assets/screenshots/Italy City Weather.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-  <img src="assets/screenshots/Riyadh City Weather.png" alt="App Preview" style="width: 30%; margin: 10px;" />
-</div>
+| ![Get Started](assets/screenshots/Get Started.png) | ![Search City](assets/screenshots/Search City.png) | ![Irbid City Weather](assets/screenshots/Irbid City Weather.png) |
+| --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- |
+| ![Irbid City Forecast](assets/screenshots/Irbid City Forecast.png) | ![Irbid City Location](assets/screenshots/Irbid City Location.png) | ![Italy City Weather](assets/screenshots/Italy City Weather.png) |
+| ![Riyadh City Weather](assets/screenshots/Riyadh City Weather.png) |  |  |
