@@ -47,5 +47,5 @@ The app uses the `google_maps_flutter` package to display the searched city's lo
 
 You can download the latest version of the app from the link below:
 
-[⬇️ Download APK](release/app-release.apk)
+[⬇️ Download APK](build/app/outputs/flutter-apk/app-release.apk)
 
