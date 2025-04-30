@@ -1,6 +1,6 @@
 # 🌦️ Flutter Weather App
 
-A lightweight and responsive Flutter application that allows users to fetch current weather information and a 3-day forecast for any city by entering its name. The app is built following the MVC architectural pattern and utilizes Cubit for state management. It integrates with the WeatherAPI to retrieve weather data. Due to the limitations of the free API tier, the forecast is currently limited to 3 days.
+A lightweight and responsive Flutter application that allows users to fetch current weather information and a 3-day forecast for any city by entering its name. The app is built following the MVC architectural pattern and utilizes Cubit for state management. It integrates with the WeatherAPI to retrieve weather data. The app initially supported a 10-day forecast, but due to the expiration of the free API trial, it now displays only a 3-day forecast as per the limitations of the free tier.
 
 ## 📍 Additional Feature
 
