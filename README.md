@@ -43,8 +43,3 @@ The app uses the `google_maps_flutter` package to display the searched city's lo
   <img src="assets/screenshots/Riyadh City Weather.png" alt="App Preview" style="width: 30%; margin: 10px;" />
 </div>
 
-## 📦 Download APK
-
-You can download the latest version of the app from the link below:
-
-https://drive.google.com/drive/folders/1vbGBN3CYQPN_wpH629kyTh-gMN_O8p4F?usp=drive_link
